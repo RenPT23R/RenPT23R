@@ -1,6 +1,6 @@
 // morescript.js
 /*
- * dynamix.js
+ * morescript.js
  * Copyright (C) 2025 RenPT23
  *
  * This program is free software: you can redistribute it and/or modify
@@ -113,4 +113,5 @@ const Interface = Object.freeze(MS.interface);
 const Type = Object.freeze(MS.type);
 const Immutable = Object.freeze(MS.immutable);
 const Func = Object.freeze(MS.func);
+
 
