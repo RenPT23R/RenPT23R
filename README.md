@@ -26,11 +26,15 @@ I developed an interest in 3D modeling and started using Blender to create model
 ### Later 2024 – A Passion for Projects  
 I installed VSCode and returned to Python, creating projects like RawCF. Now, I'm focused on R23 Engine, my custom game engine.
 
-I’ve come a long way from those early days, and I’m excited to keep learning and creating. If you have any questions about my projects or need advice, feel free to reach out!
-
-### Early 2025 - Now
+### Early 2025 - Idk what to name this
 The current days are diffrent, Very Diffrent.
 I already got NT 5.1 thanks to @tongzx creating a reposiitory with the code and me forking it you can find it on github.com/tongzx/nt5src (Original) github.com/RenPT23R/nt5src (Fork)
 And im rewriting the intire kernel to Python you can find it on NTKVM, its still not finished
+
+### Mid 2025
+ABSOLUTLY NOTHING
+
+### Late 2025
+Even though none of the projects i planed are made (but Dynamix) i still have to many stuff on my head that i can do (maybe)
 
 # Have a great day!
